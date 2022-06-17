@@ -12,12 +12,11 @@ export default function CarouselHeader() {
       
                 <Carousel.Caption
                   style={{
-                    fontWeight: '700',
+                    fontWeight: '200',
                     fontSize: '4vw',
-                    color: 'white',
-                    textShadow: '2px 2px #023047',
+                    color: 'white'
                   }}>
-                  <h3 style={{ fontWeight: '700', fontSize: '6vw' }}>Reality PDX</h3>
+                  <h3 style={{ fontWeight: '400', fontSize: '6vw' }}>Reality PDX</h3>
                   <p>Portlands Largest Night Club</p>
                 </Carousel.Caption>
               </Carousel.Item>
@@ -26,12 +25,11 @@ export default function CarouselHeader() {
 
           <Carousel.Caption
             style={{
-              fontWeight: '700',
+              fontWeight: '200',
               fontSize: '3vw',
-              color: 'white',
-              textShadow: '2px 2px #023047',
+              color: 'white'
             }}>
-            <h3 style={{ fontWeight: '700', fontSize: '6vw' }}>VIP and Bottle Service</h3>
+            <h3 style={{ fontWeight: '400', fontSize: '6vw' }}>VIP and Bottle Service</h3>
             <p>Make reservations tonight! </p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -39,12 +37,11 @@ export default function CarouselHeader() {
               <img className='d-block w-100' src={image1} alt='First slide' />
               <Carousel.Caption
                 style={{
-                  fontWeight: '700',
+                  fontWeight: '200',
                   fontSize: '4vw',
-                  color: 'white',
-                  textShadow: '2px 2px #023047',
+                  color: 'white'
                 }}>
-                <h3 style={{ fontWeight: '700', fontSize: '7vw' }}>Never Miss Out</h3>
+                <h3 style={{ fontWeight: '400', fontSize: '7vw' }}>Never Miss Out</h3>
                 <p>Check our upcoming events!</p>
               </Carousel.Caption>
             </Carousel.Item>
