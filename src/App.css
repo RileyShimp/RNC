@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Oswald:wght@400;600&family=Poppins:wght@200;400;700&display=swap');
+
+
+* {
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  background-color: #8ecae6;
+  min-height: 1000px;
+  padding-bottom: 50px;
+}
+
+h1 {
+  color: #14213d;
+  padding-top: 3rem;
+  padding-bottom: 2rem;
+  font-family: 'Oswald', sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+.puppy {
+  align-items: center;
+  padding: 0.25rem;
+}
+
+.puppies {
+  text-align: center;
+}
+
+.puppyContainer {
+  align-items: center;
+  padding: 0.25rem;
+}
+
+.puppyCard {
+  margin : 0 auto;
+  margin-top: 2rem;
+}
+
+.studs {
+  text-align: center;
+}
+
+.puppyCard:hover {
+  transform: scale(1.02);
+}
+
+.EmailForm {
+  margin : 0 auto;
+  text-align: center;
+}
+
+.Contact {
+  width: 80%;
+  max-width: 600px;
+  margin : 0 auto;
+  text-align: center;
+  padding-bottom: 200px;
+}
+
