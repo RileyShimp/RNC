@@ -17,7 +17,7 @@ export default function CarouselHeader() {
                     color: 'white'
                   }}>
                   <h3 style={{ fontWeight: '400', fontSize: '6vw' }}>Reality PDX</h3>
-                  <p>Opening 2022</p>
+                  <p>Coming to Portland 2022</p>
                 </Carousel.Caption>
               </Carousel.Item>
         <Carousel.Item>

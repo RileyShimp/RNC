@@ -9,8 +9,9 @@ return (
       width="100%" 
       height="200" 
       style={{ border: 0}}
-      allowfullscreen="" 
-      loading="lazy">    </iframe>
+      loading="lazy"
+      title='Google Map'>    
+    </iframe>
   </div>
 )
 }
