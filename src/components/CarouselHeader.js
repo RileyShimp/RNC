@@ -17,7 +17,7 @@ export default function CarouselHeader() {
                     color: 'white'
                   }}>
                   <h3 style={{ fontWeight: '400', fontSize: '6vw' }}>Reality PDX</h3>
-                  <p>Portlands Largest Night Club</p>
+                  <p>Opening 2022</p>
                 </Carousel.Caption>
               </Carousel.Item>
         <Carousel.Item>
@@ -30,7 +30,7 @@ export default function CarouselHeader() {
               color: 'white'
             }}>
             <h3 style={{ fontWeight: '400', fontSize: '6vw' }}>VIP and Bottle Service</h3>
-            <p>Make reservations tonight! </p>
+            <p>Contact to reserve your table </p>
           </Carousel.Caption>
         </Carousel.Item>
             <Carousel.Item>

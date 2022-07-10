@@ -37,7 +37,7 @@ export default function EmailForm() {
         <Form.Label>Email</Form.Label>
         <Form.Control type='email' placeholder='name@example.com' name='user_email' />
         <Form.Label>Message</Form.Label>
-        <Form.Control as='textarea' rows={5} name='message' />
+        <Form.Control as='textarea' rows={5} placeholder='include phone number for callback' name='message' />
         <Button
         variant='primary'
         value="Send"

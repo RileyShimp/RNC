@@ -4,7 +4,12 @@ export default function Contact() {
 
   return (
       <div className='Contact'>
-        <h1 style={{ fontSize: '6.5vw' }}>Email Us</h1>
+      <h1 
+        style={{ 
+          textAlign: 'center', 
+          fontSize: '6.5vw',
+          color : '#a29f9f'
+          }}>Contact for Reservations</h1>
         <EmailForm/>
       </div>
     )

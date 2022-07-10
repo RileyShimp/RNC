@@ -9,6 +9,7 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
   background-color: #101010;
+  color: #a29f9f;
   min-height: 1000px;
   padding-bottom: 50px;
 }
@@ -20,36 +21,35 @@ h1 {
   font-family: 'Oswald', sans-serif;
 }
 
+.AboutUs {
+  color: #656464;
+  padding: 3rem;
+  padding-top: 1rem;
+  font-family: 'Oswald', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.Events {
+  color: #656464;
+  padding: 3rem;
+  padding-top: 1rem;
+  font-family: 'Oswald', sans-serif;
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
 .container {
   text-align: center;
 }
 
-.puppy {
-  align-items: center;
-  padding: 0.25rem;
+.map {
+  margin: 0 auto;
 }
 
-.puppies {
-  text-align: center;
-}
-
-.puppyContainer {
-  align-items: center;
-  padding: 0.25rem;
-}
-
-.puppyCard {
-  margin : 0 auto;
-  margin-top: 2rem;
-}
-
-.studs {
-  text-align: center;
-}
-
-.puppyCard:hover {
-  transform: scale(1.02);
-}
 
 .EmailForm {
   margin : 0 auto;
