@@ -8,7 +8,7 @@ export default function Home() {
     <div>
       <CarouselHeader />
         <About />
-        <Events />
+        {/* <Events /> */}
         <Contact />
     </div>
   )
